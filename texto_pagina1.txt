@@ -1,0 +1,32 @@
+DOS – ¿Qué es un sistema operativo de disco?
+DOS (abreviatura de Disk Operating System) sirvió de base para el primer sistema operativo de uso masivo. Los sistemas operativos de disco consiguieron hacer funcionar los ordenadores personales mediante la lectura de datos y el almacenamiento de datos en disquetes. Los ordenadores se podían controlar con una simple línea de comandos basada en texto, lo que hacía que DOS no solo fuera fácil de usar, sino también eficiente y altamente funcional.
+
+Índice
+El desarrollo de DOS (sistema operativo de disco)
+DOS: ejemplos conocidos
+¿Cómo funciona el DOS?
+Comandos básicos en el DOS
+DOS hoy
+El desarrollo de DOS (sistema operativo de disco)
+Después que Bill Gates descubriera que IBM estaba buscando un sistema operativo alternativo al que había planeado originalmente, compró los derechos de QDOS (Quick and Dirty Operating System) a una pequeña empresa de software. IBM adquirió la licencia de Microsoft y la integró en los PC de IBM como PC-DOS 1.0.
+
+PC-DOS se inspiró en CP/M (el sistema operativo que IBM había planeado originalmente) y Unix, pero se encontró que fallaba en su ejecución. Resultó ser un sistema operativo bastante mal programado, lo que llevó a Microsoft a reprogramarlo por completo. PC-DOS 2.0 llegó posteriormente al mercado como el primer sistema operativo que funcionaba razonablemente.
+
+Dado que IBM no tenía una licencia exclusiva para el sistema operativo, Microsoft también podía venderlo a otras empresas. Bajo el nombre de MS-DOS, se convirtió en uno de los sistemas operativos más populares de su época. En 1982, más de 50 empresas tenían contratos de licencia para el sistema operativo de disco de Microsoft.
+
+A medida que pasaba el tiempo, los usuarios de DOS solicitaban cada vez más una interfaz gráfica de usuario (GUI). Microsoft atendió sus deseos en 1985 con Windows 1.0, que imitaba la GUI desarrollada por Xerox en la década de 1970. Apple también se lanzó con una GUI en esta época. De esta manera, los usuarios ya no tenían que escribir comandos para abrir programas; simplemente podían hacer clic en un icono con el ratón.
+
+DOS: ejemplos conocidos
+CP/M y PC-DOS/MS-DOS no son los únicos sistemas operativos de disco conocidos. Otros DOS ampliamente utilizados son:
+
+Commodore DOS: Commodore DOS se desarrolló en 1977 y está ubicado en el disco en lugar de en el ordenador, lo que lo distingue de la mayoría de los otros sistemas operativos de disco. En realidad, esto lo convierte en un firmware en lugar de un sistema operativo.
+Apple DOS: en el pasado, los ordenadores Apple solo eran compatibles con casetes de audio. En 1978, Apple amplió su funcionalidad e integró el Apple DOS en el ordenador Apple II. Después de la introducción de la arquitectura de 16 bits, Apple DOS dio paso a GS/OS y finalmente se convirtió en el macOS que se usa hoy en día.
+AmigaDOS: AmigaDOS aplicó enfoques innovadores como la arquitectura de microkernel y los controladores de dispositivos que se pueden agregar, que todavía se utilizan en los sistemas operativos modernos. El sistema operativo tiene su origen en el sistema multiusuario TRIPOS de la Universidad de Cambridge.
+Atari DOS: lo que hizo especial a Atari DOS fue el kernel integrado en la memoria residente en la versión 2.0. Con la versión 4.0, Atari DOS se volvió de libre acceso como parte del dominio público, lo que significa que hay innumerables derivados de Atari programados por terceros.
+¿Cómo funciona el DOS?
+DOS gestiona información y comandos usando archivos por lotes y, por lo tanto, puede procesar datos internamente. Cuando un usuario arranca su ordenador, el sistema lo procesa en un archivo por lotes, que se encuentra en el archivo autoejecutable autoexec.bat. El archivo verifica todos los componentes del sistema y monitorea el proceso de inicio. Una vez que autoexec.bat ha terminado de procesar el archivo por lotes, aparece un cursor parpadeante y el usuario puede ingresar comandos usando su teclado.
+
+Comandos básicos en el DOS
+Una vez el ordenador haya arrancado correctamente el DOS, el intérprete de línea de comandos COMMAND.COM se iniciará automáticamente. Los usuarios pueden ingresar comandos usando el teclado. Muchos comandos importantes ya están integrados en el DOS. El intérprete buscará comandos desconocidos en archivos con terminaciones como “.EXE”, “.COM” o “.BAT”.
+
+Estos son algunos de los comandos del sistema operativo de disco más básicos:
